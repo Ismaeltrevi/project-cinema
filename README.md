@@ -1,17 +1,21 @@
-# Phase 1 Project
+# Project Cinema
+Data Scientist:
+- Ismael Araujo
+
 
 ## Introduction
 
-In this lesson, we review the guidelines for the Phase 1 Project.
+In this project, we will analyze the the recent cinematographic industry and what factor can influence the sucess of a movie and/or movie studios. We will walk through the most profitable movies and genres and identify patterns.
 
 ## Objectives
 
-You will be able to:
+Answer the fallowing questions:
 
-* Start your Phase 1 Project
-* Check that your project meets the requirements
-* Submit your project materials in Canvas
-* Prepare for your project review
+1. Is there any connection between the top 20 most profitable movies of all times?  
+2. Does higher budget reflect in higher profits?  
+3. What are the top 10 genres with the most movies launched since 1990?  
+4. What groups of genres bring the highest box office revenue and ROI?  
+5. What genres bring the highest box office revenue and ROI?
 
 ## Project Overview
 

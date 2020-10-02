@@ -59,12 +59,12 @@ Budget and box office have a strong positive correlation
 Duration and average vote have a moderate correlation
 Budget and duration have a moderate correlation
 
-![correlation](https://github.com/Ismaeltrevi/project-cinema/blob/master/PNG/regcorr.png)
+![correlation](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/regcorr.png)
 
 The genres with more movies launched between 1990 and 2020 are:
 Drama, Comedy, Horror, Thriller, Action, Biography, Adventure, Romance, and Crime.
 
 
-![popular-genres(https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/most_profitable_movies.png)
+![profitable_movies](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/most_profitable_movies.png)
 
 

@@ -82,7 +82,7 @@ The individual genres that bring the highest in box office revenue are:
 ![profitable_movies](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/least_profitable_genres.png)
 
 ## Recommendations:
-Invest in franchises, such as Halo and Gears.
-Invest in movies that grab all the public.
-Drama and Comedy might face higher competition since they are in larger quantities.
-Animation, Adventure, and Sci-Fi bring the highest profits.
+- Invest in franchises, such as Halo and Gears.
+- Invest in movies that grab all the public.
+- Drama and Comedy might face higher competition since they are in larger quantities.
+- Animation, Adventure, and Sci-Fi bring the highest profits. It is a good idea to invest on them.

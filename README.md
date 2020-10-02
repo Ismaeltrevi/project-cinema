@@ -3,16 +3,20 @@ Data Scientist:
 - Ismael Araujo
 
 
-## Introduction
+## Project Overview
 
 In this project, we will analyze the the recent cinematographic industry and what factor can influence the sucess of a movie and/or movie studios. We will walk through the most profitable movies and genres and identify patterns.
+
+This repository contains data collection, cleaning and analyses of movies data sets a from 1990 to 2020.
+
+It was used data sets provided by Flatiron School and data sets downloaded from IMDb.
 
 ## Objectives
 
 Answer the fallowing questions:
 
 1. Is there any connection between the top 20 most profitable movies of all times?  
-2. Does higher budget reflect in higher profits?  
+2. Does higher budgets reflect in higher profits?  
 3. What are the top 10 genres with the most movies launched since 1990?  
 4. What groups of genres bring the highest box office revenue and ROI?  
 5. What genres bring the highest box office revenue and ROI?

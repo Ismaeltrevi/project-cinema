@@ -73,11 +73,11 @@ Drama, Comedy, Horror, Thriller, Action, Biography, Adventure, Romance, and Crim
 
 
 The individual genres that bring the highest in box office revenue are:
-- Animation    121.788071 million dollars
-- Adventure    104.248915 million dollars
-- Sci-Fi        68.416803 million dollars
-- Action        53.555004 million dollars
-- Fantasy       49.365756 million dollars
+- Animation  -   121.788071 million dollars
+- Adventure  -   104.248915 million dollars
+- Sci-Fi    -    68.416803 million dollars
+- Action    -    53.555004 million dollars
+- Fantasy   -    49.365756 million dollars
 
 ![profitable_movies](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/least_profitable_genres.png)
 

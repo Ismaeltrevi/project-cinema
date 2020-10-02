@@ -3,17 +3,19 @@ Data Scientist:
 - Ismael Araujo
 
 
-## Project Overview
+## Repository and Data
 
-In this project, we will analyze the the recent cinematographic industry and what factor can influence the sucess of a movie and/or movie studios. We will walk through the most profitable movies and genres and identify patterns.
-
-This repository contains data collection, cleaning and analyses of movies data sets a from 1990 to 2020.
+This repository contains data collection, cleaning, and analyses of data sets of movies released from 1990 to 2020.
 
 It was used data sets provided by Flatiron School and data sets downloaded from IMDb.
 
+## Project Overview
+
+In this project, we will analyze the recent cinematographic industry and what factors can influence the sucess of a movie and/or movie studios. We will walk through the most profitable movies and genres and identify patterns.The main objective is to identify trends and correlations to create recommendations to companies interested in entering the movies industry. 
+
 ## Objectives
 
-Answer the fallowing questions:
+### Answer the fallowing questions:
 
 1. Is there any connection between the top 20 most profitable movies of all times?  
 2. Does higher budgets reflect in higher profits?  
@@ -21,9 +23,50 @@ Answer the fallowing questions:
 4. What groups of genres bring the highest box office revenue and ROI?  
 5. What genres bring the highest box office revenue and ROI?
 
-## Project Overview
+## Structure
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+- PNG -- contains images with graphics linked in README
+- project-cinema.ipynb -- it's the notebook with data wragling, data cleaning, data analyses, and visualization.
+
+
+## Approach
+1. Understand the business problem
+	- What is considered "currently" in the industry?
+2. Understand the market
+	- How do movie studios make money?
+	- How much percent to the get out of the revenue?
+3. Understand what aspects can help a movie to become profitable?
+	- What type of movies make the most money?
+	- What genres have the best and worst return per dollar invested?
+	- Are there any pattern in successful movies?
+
+## Conclusions and Recommendations
+
+Out of the top 20 most profitable movies:
+18 them are part of a franchise of movies
+13 of them are continuations of previous movies
+5 of them are the first movie of a franchise
+2 of them haven't had a continuation yet, but they are underway
+Only Beauty and the Best and Titanic aren't part of a franchise yet.
+
+Correlation between the data:
+Higher budget and higher box office are positively correlated. However, it is not garantee that higher budget will bring higher revenue. It will depend on the quality and reception of the final product.
+
+(https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
+
+Higher budget and higher profits have a positive moderate correlation
+Budget and box office have a strong positive correlation
+Duration and average vote have a moderate correlation
+Budget and duration have a moderate correlation
+
+
+
+(https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
+
+
+
+
+
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
 

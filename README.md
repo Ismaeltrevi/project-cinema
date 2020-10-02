@@ -59,7 +59,7 @@ Budget and box office have a strong positive correlation
 Duration and average vote have a moderate correlation
 Budget and duration have a moderate correlation
 
-![correlation](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/regcorr.png)
+![correlation](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/budget_vs_box_office.png)
 
 The genres with more movies launched between 1990 and 2020 are:
 Drama, Comedy, Horror, Thriller, Action, Biography, Adventure, Romance, and Crime.
@@ -68,3 +68,18 @@ Drama, Comedy, Horror, Thriller, Action, Biography, Adventure, Romance, and Crim
 ![profitable_movies](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/most_profitable_movies.png)
 
 
+The individual genres that bring the highest in box office revenue are:
+- Animation    121.788071 million dollars
+- Adventure    104.248915 million dollars
+- Sci-Fi        68.416803 million dollars
+- Action        53.555004 million dollars
+- Fantasy       49.365756 million dollars
+
+![profitable_movies](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/least_profitable_genres.png)
+
+## Recommendations:
+
+- Invest in franchises, such as Halo and Gears.
+- Invest in movies that grabs all the publics.
+- Drama and Comedy might face a higher competition, since they are in larger quantity.
+- Animation, Adventure and Sci-Fi bring the highest profits.

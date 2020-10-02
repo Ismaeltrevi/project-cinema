@@ -52,19 +52,19 @@ In this project, we will analyze the recent cinematographic industry and what fa
 Correlation between the data:
 Higher budget and higher box office are positively correlated. However, it is not garantee that higher budget will bring higher revenue. It will depend on the quality and reception of the final product.
 
-<<<<<<< HEAD
-![correlation](https://github.com/Ismaeltrevi/project-cinema/blob/master/PNG/regcorr.png)
+![correlation](https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/regcorr.png)
 =======
-![awesome](https://github.com/Ismaeltrevi/project-cinema/blob/master/PNG/most_profitable_movies.png)
->>>>>>> 8d33e606a60299082e40048e0e2d62f3ce163628
 
-Higher budget and higher profits have a positive moderate correlation
 Budget and box office have a strong positive correlation
 Duration and average vote have a moderate correlation
 Budget and duration have a moderate correlation
 
+![correlation](https://github.com/Ismaeltrevi/project-cinema/blob/master/PNG/regcorr.png)
+
+The genres with more movies launched between 1990 and 2020 are:
+Drama, Comedy, Horror, Thriller, Action, Biography, Adventure, Romance, and Crime.
 
 
+![popular-genres(https://github.com/Ismaeltrevi/project-cinema/blob/master/Images/most_profitable_movies.png)
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-campus/master/awesome.gif)
 

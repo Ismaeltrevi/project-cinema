@@ -9,6 +9,11 @@ This repository contains data collection, cleaning, and analyses of data sets of
 
 It was used data sets provided by Flatiron School and data sets downloaded from IMDb.
 
+## Structure
+
+- PNG -- contains images with graphics linked in README
+- project-cinema.ipynb -- it's the notebook with data wragling, data cleaning, data analyses, and visualization.
+
 ## Project Overview
 
 In this project, we will analyze the recent cinematographic industry and what factors can influence the sucess of a movie and/or movie studios. We will walk through the most profitable movies and genres and identify patterns.The main objective is to identify trends and correlations to create recommendations to companies interested in entering the movies industry. 
@@ -22,11 +27,6 @@ In this project, we will analyze the recent cinematographic industry and what fa
 3. What are the top 10 genres with the most movies launched since 1990?  
 4. What groups of genres bring the highest box office revenue and ROI?  
 5. What genres bring the highest box office revenue and ROI?
-
-## Structure
-
-- PNG -- contains images with graphics linked in README
-- project-cinema.ipynb -- it's the notebook with data wragling, data cleaning, data analyses, and visualization.
 
 
 ## Approach
